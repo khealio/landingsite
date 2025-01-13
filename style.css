@@ -1,0 +1,18 @@
+#main-title {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    border: 2px double black;
+    border-radius: 5px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    text-shadow: 1px 1px 2px #ababab;
+    padding-left: 0.2em;
+    padding-top: 0.2em;
+    padding-bottom: 0.1em;
+    margin: 1em 2em 3em 2em;
+}
+
+#main-subtitle {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    text-shadow: 1px 1px 2px #ababab;
+    padding-left: 1%;
+}
